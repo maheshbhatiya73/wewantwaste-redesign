@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # wewantwaste-redesign
-=======
 Skip Selection UI – We Want Waste
 
 redesigned Skip Selection page for the company We Want Waste, built with Next.js and Tailwind CSS, using Framer Motion for animations and React Icons for visual cues.
@@ -70,4 +68,3 @@ live demo : vercel
 Built by Mahesh Bhatiya for the frontend challenge by We Want Waste.
 
 thank you.
->>>>>>> 820c3c9 (redesigned ui final push)
